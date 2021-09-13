@@ -1,4 +1,4 @@
-# Mobile Retina Exams 
+# Mobile Retina Exams  
 ## 3-D Printing, an App, and Diagnosing Diabetic Retinopathy Early
 
 Author – nate walter
@@ -11,4 +11,17 @@ In parts of rural India, the diagnosis of Diabetic Retinopthy (DR) can be a diff
 ## Data
 The Data are a combination of 3 datasets. The first, and the genesis for the idea, comes from the APTOS 2019 Blindness Detection on Kaggle . Secondly, data was sourced from INDIAN DIABETIC RETINOPATHY IMAGE DATASET (IDRID) 
 
-[Link to 2019 APTOS, Kaggle] (https://www.kaggle.com/c/aptos2019-blindness-detection/data)
+[Link to 2019 APTOS, Kaggle Dataset](https://www.kaggle.com/c/aptos2019-blindness-detection/data)
+
+
+
+
+
+
+
+Link to app github
+[app link](https://github.com/IBM/tfjs-web-app#1-clone-the-repo)
+
+Odocs Fundus Adapter 3D printed Plans and information
+[Odocs page](https://odocseyecare.shop/pages/3d-print)
+
