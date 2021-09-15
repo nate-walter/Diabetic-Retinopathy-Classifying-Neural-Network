@@ -21,11 +21,10 @@ The 5 classes were extremely unbalanced. It was found that the majority of retin
 
 ## Results
 
-–Confusion Matrix here–
+The model predicted Diabetic Retinopathy of previously-unseen retinas with 66% accuracy.
 
-The most recent iteration of the model predicted the unseen retinas' level of DR with ________ accuracy. 
+<img width="366" alt="Screen Shot 2021-09-15 at 2 25 39 PM" src="https://user-images.githubusercontent.com/66656063/133496733-5aaff67a-04fd-4451-a3a1-fa4738475940.png">
 
-–Bar chart of predictions– 
 
 ## Recommendations
 Based on the price/performance comparison of the oDocs Fundus Adapter to its more complex and bulky alternatives, and the accuracy of the Neural Network model, it is recommended that the use of The oDocs Adapter and image classification app be implemented in the field. 
