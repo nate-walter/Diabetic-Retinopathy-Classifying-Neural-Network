@@ -34,7 +34,7 @@ Frankly, lack of time limited the accuracy of the current Neural Network. Since 
 
 ## For Further Information
 
-You're encouraged to see the Google Colab Notebook above (Resnet-Gamma., as well as the presentation 
+You're encouraged to see the Google Colab Notebook above (Resnet_Gamma.ipynb), as well as the presentation
 
 To see in depth plans for the app and the oDocs Adapter check out:
 
