@@ -17,7 +17,7 @@ The Data are a combination of 3 datasets. The first, and the genesis for the ide
 [link to 2015/2019 resized dataset](https://www.kaggle.com/benjaminwarner/resized-2015-2019-blindness-detection-images)
 
 ## Methods
-The 5 classes were extremely imbalanced. It was found that the majority of retinal images had no Diabetic Retinopathy (labeled 0). So I decided to drop certain  rows and combine different columns to form new dataframes and even out the classes. It was apparent that the best approach to making predictions on a retinal image would be to use a multi-class Neural Network model. This evolved into utilizing a pre-trained deep neural network (ResNet50_V2), while replacing the last layer with one tailored specifically to this project.   
+The 5 classes were extremely imbalanced. It was found that the majority of retinal images had no Diabetic Retinopathy (labeled 0). So I decided to drop certain  rows and combine different columns to form new dataframes, eventually forming one final dataframe, evening out the classes. It was apparent that the best approach to making predictions on a retinal image would be to use a multi-class Neural Network model. This evolved into utilizing a pre-trained deep neural network (ResNet50_V2), while replacing the last layer with one tailored specifically to this project.   
 
 ## Results
 
@@ -30,7 +30,7 @@ The model predicted Diabetic Retinopathy on previously-unseen retinal images wit
 Based on the price/performance comparison of the oDocs Fundus Adapter to its more complex, expensive, and bulkier alternatives, conjoined with the accuracy of the Neural Network model, it is recommended that the use of The oDocs Adapter and image classification app be implemented in the field. 
 
 ## Limitations and Next Steps
-Frankly, inexperience and lack of time is limiting the accuracy of the current Neural Network. Since the goal is to provide preventative treatment quickly for those poor souls in areas who might not otherwise receive it, use of the winning model from the APTOS 2019 Kaggle competition in the app would be the best initial step to take. As mentioned in the presentation (see google slide deck above) it could be beneficial to have Engineering departments at Universities focused on 3-D printing include the plans for the oDocs Fundus Adapter into their students' curriculum. 
+Frankly, lack of time limited the accuracy of the current Neural Network. Since the goal is to provide preventative treatment quickly for those poor souls in areas who might not otherwise receive it, use of the winning model from the APTOS 2019 Kaggle competition in the app would be the best initial step to take. As mentioned in the presentation (see Captsone-Presentation.mp4 above) it could be beneficial to have Engineering departments at Universities focused on 3-D printing include the plans for the oDocs Fundus Adapter into their students' curriculum. 
 
 ## For Further Information
 
