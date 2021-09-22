@@ -21,7 +21,7 @@ The 5 classes were extremely imbalanced. It was found that the majority of retin
 
 ## Results
 
-The model predicted Diabetic Retinopathy on previously-unseen retinal images with 66% accuracy.
+The model predicted Diabetic Retinopathy on previously-unseen retinal images with 68.7% accuracy.
 
 <img width="366" alt="Screen Shot 2021-09-15 at 2 25 39 PM" src="https://user-images.githubusercontent.com/66656063/133496733-5aaff67a-04fd-4451-a3a1-fa4738475940.png">
 
@@ -34,7 +34,7 @@ Frankly, lack of time limited the accuracy of the current Neural Network. Since 
 
 ## For Further Information
 
-You're encouraged to see the Google Colab Notebook above (Resnet_Gamma.ipynb), as well as the presentation
+You're encouraged to see the Google Colab Notebook above (Delta_Model.ipynb), as well as the presentation
 
 To see in depth plans for the app and the oDocs Adapter check out:
 
