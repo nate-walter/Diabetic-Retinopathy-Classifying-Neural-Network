@@ -23,8 +23,7 @@ The 5 classes were extremely imbalanced. It was found that the majority of retin
 
 The model predicted Diabetic Retinopathy on previously-unseen retinal images with 68.7% accuracy.
 
-<img width="366" alt="Screen Shot 2021-09-15 at 2 25 39 PM" src="https://user-images.githubusercontent.com/66656063/133496733-5aaff67a-04fd-4451-a3a1-fa4738475940.png">
-
+![image](https://user-images.githubusercontent.com/66656063/134263502-450f666d-16a3-4bfc-be51-f00ea892ede2.png)
 
 ## Recommendations
 Based on the price/performance comparison of the oDocs Fundus Adapter to its more complex, expensive, and bulkier alternatives, conjoined with the accuracy of the Neural Network model, it is recommended that the use of The oDocs Adapter and image classification app be implemented in the field. 
