@@ -21,9 +21,11 @@ The 5 classes were extremely imbalanced. It was found that the majority of retin
 
 ## Results
 
-The model predicted Diabetic Retinopathy on previously-unseen retinal images with 68.7% accuracy.
+The model predicted Diabetic Retinopathy on previously-unseen retinal images with 70.5% accuracy.
 
-![image](https://user-images.githubusercontent.com/66656063/134263502-450f666d-16a3-4bfc-be51-f00ea892ede2.png)
+![download](https://user-images.githubusercontent.com/66656063/134784112-7960f7bf-77f6-49ec-ac65-a3da2d04f5c4.png)
+
+
 
 ## Recommendations
 Based on the price/performance comparison of the oDocs Fundus Adapter to its more complex, expensive, and bulkier alternatives, conjoined with the accuracy of the Neural Network model, it is recommended that the use of The oDocs Adapter and image classification app be implemented in the field. 
@@ -33,7 +35,7 @@ Frankly, lack of time limited the accuracy of the current Neural Network. Since 
 
 ## For Further Information
 
-You're encouraged to see the Google Colab Notebook above (Delta_Model.ipynb), as well as the presentation
+You're encouraged to see the Google Colab Notebook above (Zeta_Model.ipynb), as well as the presentation [on YouTube](https://www.youtube.com/watch?v=KsNJlq3wPlE)
 
 To see in depth plans for the app and the oDocs Adapter check out:
 
@@ -44,7 +46,7 @@ To see in depth plans for the app and the oDocs Adapter check out:
 [Odocs 3-D Printing Plans](https://odocseyecare.shop/pages/3d-print)
 
 
-for further information, please contact nate walter at:  theeasyswing@gmail.com
+for further information, please contact nate walter at:  natejwalter@gmail.com
 
 
 
