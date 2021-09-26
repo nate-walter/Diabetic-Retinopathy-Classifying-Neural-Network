@@ -21,9 +21,9 @@ The 5 classes were extremely imbalanced. It was found that the majority of retin
 
 ## Results
 
-The model predicted Diabetic Retinopathy on previously-unseen retinal images with 70.5% accuracy.
+The model predicted Diabetic Retinopathy on previously-unseen retinal images with 75.7% accuracy.
 
-![download](https://user-images.githubusercontent.com/66656063/134784112-7960f7bf-77f6-49ec-ac65-a3da2d04f5c4.png)
+![download](https://user-images.githubusercontent.com/66656063/134817250-f0c66e56-8690-4468-b8c3-811e96169176.png)
 
 
 
@@ -35,7 +35,7 @@ Frankly, lack of time limited the accuracy of the current Neural Network. Since 
 
 ## For Further Information
 
-You're encouraged to see the Google Colab Notebook above (Zeta_Model.ipynb), as well as the presentation [on YouTube](https://www.youtube.com/watch?v=KsNJlq3wPlE)
+You're encouraged to see the Google Colab Notebook above (Eta_Model.ipynb), as well as the presentation [on YouTube](https://www.youtube.com/watch?v=KsNJlq3wPlE)
 
 To see in depth plans for the app and the oDocs Adapter check out:
 
