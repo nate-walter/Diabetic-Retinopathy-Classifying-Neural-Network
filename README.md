@@ -24,6 +24,7 @@ The 5 classes were extremely imbalanced. It was found that the majority of retin
 The model model (Eta) predicted Diabetic Retinopathy on previously-unseen retinal images with 75.7% accuracy. However, I've decided to use Kappa-Model as a jumping off point. It uses AdamW compiler which seems much more stable while scoring 74% Accuracy on Validation Data with great consistency. It should be mentioned that it did score a 72% on Test Data. Now I'll do some hyper parameter tuning to get its accuracy up. 
 
 
+![download](https://user-images.githubusercontent.com/66656063/135118548-7dbb60da-1cbd-4782-8264-b570ce6b2694.png)
 
 
 ## Recommendations
