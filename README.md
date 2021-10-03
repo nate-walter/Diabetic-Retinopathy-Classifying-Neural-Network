@@ -21,10 +21,15 @@ The 5 classes were extremely imbalanced. It was found that the majority of retin
 
 ## Results
 
-The model model (Eta) predicted Diabetic Retinopathy on previously-unseen retinal images with 75.7% accuracy. However, I've decided to use Kappa-Model as a jumping off point. It uses AdamW compiler which seems much more stable while scoring 74% Accuracy on Validation Data with great consistency. It should be mentioned that it did score a 72% on Test Data. Now I'll do some hyper parameter tuning to get its accuracy up. 
+The model (Nu) predicted Diabetic Retinopathy on previously-unseen retinal images with 77.6% accuracy. I have decided to make the pre-trained model's layers trainable. In this iteration of the project, the Nu model is extremely overfit. But will work on that immediately. 
 
+Nu-Model's Confusion Matrix
 
-![download](https://user-images.githubusercontent.com/66656063/135118548-7dbb60da-1cbd-4782-8264-b570ce6b2694.png)
+<img width="376" alt="Screen Shot 2021-10-02 at 10 06 00 PM" src="https://user-images.githubusercontent.com/66656063/135737942-f3454f5d-2fe8-45b0-b870-eaf367674cfc.png">
+
+Nu-Model's Metrics
+
+<img width="732" alt="Screen Shot 2021-10-02 at 10 06 15 PM" src="https://user-images.githubusercontent.com/66656063/135737955-aa1aa14f-298d-41af-841d-77e9a7616409.png">
 
 
 ## Recommendations
