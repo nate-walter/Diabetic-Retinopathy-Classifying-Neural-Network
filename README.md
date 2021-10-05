@@ -21,16 +21,16 @@ The 5 classes were extremely imbalanced. It was found that the majority of retin
 
 ## Results
 
-The model (Omicron) predicted Diabetic Retinopathy on previously-unseen retinal images with 78.7% accuracy. I have decided to make the pre-trained model's layers trainable. In this iteration of the project, the Nu model is extremely overfit. But will work on that immediately. 
+The model (Pi) predicted Diabetic Retinopathy on previously-unseen retinal images with 82.9% accuracy. I have decided to make the pre-trained model's layers trainable. In this iteration of the project, the Pi model is performing respectably. I am now going to make more layers and make them more complex. I'm in hopes this will continue to improve the Model's accuracy. Keep in mind, we started at around 56% accuracy. Onward and upward. 
 
-Omicron-Model's Confusion Matrix
+Pi-Model's Confusion Matrix
 
-<img width="367" alt="Screen Shot 2021-10-03 at 7 14 36 PM" src="https://user-images.githubusercontent.com/66656063/135778317-a87f43f4-c6db-45bf-b9bf-43bee9121e1f.png">
+<img width="382" alt="Screen Shot 2021-10-04 at 10 33 04 PM" src="https://user-images.githubusercontent.com/66656063/135955906-8f293264-2676-406c-9a36-6036ae4b7891.png">
 
 
-Omicron-Model's Metrics
+Pi-Model's Metrics
 
-<img width="728" alt="Screen Shot 2021-10-03 at 7 14 54 PM" src="https://user-images.githubusercontent.com/66656063/135778320-56ec8162-2a54-46f9-ae73-485eb2d23c7a.png">
+<img width="739" alt="Screen Shot 2021-10-04 at 10 33 29 PM" src="https://user-images.githubusercontent.com/66656063/135955915-7d7196aa-c806-45a8-8202-6798753defc7.png">
 
 
 
