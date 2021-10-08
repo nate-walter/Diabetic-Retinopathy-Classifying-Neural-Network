@@ -21,17 +21,16 @@ The 5 classes were extremely imbalanced. It was found that the majority of retin
 
 ## Results
 
-The model (Pi) predicted Diabetic Retinopathy on previously-unseen retinal images with 82.9% accuracy. I have decided to make the pre-trained model's layers trainable. In this iteration of the project, the Pi model is performing respectably. I am now going to make more layers and make them more complex. I'm in hopes this will continue to improve the Model's accuracy. Keep in mind, we started at around 56% accuracy. Onward and upward. 
+The model (Omega) predicted Diabetic Retinopathy on previously-unseen retinal images with 83.9% accuracy, a whole percentage point higher than the previous model. In this iteration of the project, the Omega model is performing respectably. I have also crested the wave of saving one's model and its weights as hdf5. I am now going to tune the image augmentation and possibly tweek some of the top layers. I'm in hopes this will continue to improve the Model's accuracy. Keep in mind, we started at around 56% accuracy. Onward and upward. 
 
-Pi-Model's Confusion Matrix
+Omega-Model's Confusion Matrix
 
-<img width="382" alt="Screen Shot 2021-10-04 at 10 33 04 PM" src="https://user-images.githubusercontent.com/66656063/135955906-8f293264-2676-406c-9a36-6036ae4b7891.png">
+<img width="365" alt="Screen Shot 2021-10-08 at 12 43 25 AM" src="https://user-images.githubusercontent.com/66656063/136504558-5fcce1f2-8595-4f95-9ccd-6cc19d453bd2.png">
 
 
-Pi-Model's Metrics
+Omega-Model's Metrics
 
-<img width="739" alt="Screen Shot 2021-10-04 at 10 33 29 PM" src="https://user-images.githubusercontent.com/66656063/135955915-7d7196aa-c806-45a8-8202-6798753defc7.png">
-
+<img width="735" alt="Screen Shot 2021-10-08 at 12 43 42 AM" src="https://user-images.githubusercontent.com/66656063/136504578-e2479995-3e90-406d-8f94-ad5660712f9b.png">
 
 
 ## Recommendations
