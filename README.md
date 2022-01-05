@@ -37,11 +37,11 @@ Omega-Model's Metrics
 Based on the price/performance comparison of the oDocs Fundus Adapter to its more complex, expensive, and bulkier alternatives, conjoined with the accuracy of the Neural Network model, it is recommended that the use of The oDocs Adapter and image classification app be implemented in the field. 
 
 ## Limitations and Next Steps
-Frankly, lack of time limited the accuracy of the current Neural Network. Since the goal is to provide preventative treatment quickly for those poor souls in areas who might not otherwise receive it, use of the winning model from the APTOS 2019 Kaggle competition in the app would be the best initial step to take. As mentioned in the presentation (see Captsone-Presentation.mp4 above) it could be beneficial to have Engineering departments at Universities focused on 3-D printing include the plans for the oDocs Fundus Adapter into their students' curriculum. 
+Frankly, lack of time limited the accuracy of the current Neural Network. Since the goal is to provide preventative treatment quickly for those poor souls in areas who might not otherwise receive it, use of the winning model from the APTOS 2019 Kaggle competition in the app would be the best initial step to take. As mentioned in the presentation (https://youtu.be/KsNJlq3wPlE) it could be beneficial to have Engineering departments at Universities focused on 3-D printing include the plans for the oDocs Fundus Adapter into their students' curriculum. 
 
 ## For Further Information
 
-You're encouraged to see the Google Colab Notebook above (Eta_Model.ipynb), as well as the presentation [on YouTube](https://www.youtube.com/watch?v=KsNJlq3wPlE)
+You're encouraged to see the Google Colab Notebook above (Omega_model.ipynb), as well as the presentation [on YouTube](https://www.youtube.com/watch?v=KsNJlq3wPlE)
 
 To see in depth plans for the app and the oDocs Adapter check out:
 
